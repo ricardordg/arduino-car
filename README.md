@@ -1,3 +1,3 @@
 # arduino-car
 
-All Arduino-car codes.
+Projeto de localização veicular usando sensores ultrassônicos na plataforma Arduino.
